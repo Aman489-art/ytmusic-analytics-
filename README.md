@@ -23,7 +23,7 @@ ytmusic-analytics/
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YOUR_USERNAME/ytmusic-analytics.git
+   git clone https://github.com/Aman489-art/ytmusic-analytics.git
    cd ytmusic-analytics
    ```
 
